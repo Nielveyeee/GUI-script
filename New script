@@ -1,4 +1,4 @@
-loadstring(game:httpget(('')))()
+loadstring(game:httpget(('https://raw.githubusercontent.com/Nielveyeee/GUI-script/main/New%20script')))()
 local Window = OrionLib:MakeWindow({Name = "n1elvS GUI Script", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 --[[
